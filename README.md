@@ -9,6 +9,7 @@ FastCausation
 
 Usage 
 -------------
+Unzip models first and then
 
 ```python
 python predict.py ./data ./results
